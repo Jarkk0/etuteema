@@ -1,22 +1,20 @@
 {
-  "name": "etuteema",
+  "name": "getuteema",
   "version": "1.0.0",
-  "description": "portfolio",
+  "description": "webpage",
   "main": "index.js",
+  "devDependencies": {},
   "scripts": {
-    "sass": "sass -w scss/:dist/css/"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://jakemakekake@bitbucket.org/frontti/etuteema.git"
+    "url": "git+https://github.com/Jarkk0/etuteema.git"
   },
-  "keywords": [
-    "front"
-  ],
-  "author": "Jarkko Peltonen",
+  "author": "Jarkko",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/frontti/etuteema#readme",
-  "dependencies": {
-    "sass": "^1.68.0"
-  }
+  "bugs": {
+    "url": "https://github.com/Jarkk0/etuteema/issues"
+  },
+  "homepage": "https://github.com/Jarkk0/etuteema#readme"
 }
